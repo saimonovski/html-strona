@@ -1,0 +1,17 @@
+h1{
+ font-size: 20px;
+    
+}
+body{
+    background-color: dimgrey;
+    color: aliceblue;
+
+}
+/*img{
+    width: 200px;
+    height: auto;
+}*/
+a{
+    text-decoration:none ;
+     color: aliceblue;
+}
